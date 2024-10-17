@@ -11,3 +11,8 @@ Create new variables: Gross Revenue, Total tax, and Net Revenue (actual earnings
 - Filter the ReturnStatus column to ensure that only records with Not Returned are visible
 - Load Countries dataset, and repeat the same procedure as above
 - Load the Historical currency exchange data with Python script
+
+### Data Modelling
+- Create relationships between tables
+- Create new tables: Calendar table, Sales in USD calculated table, and manage their relationships with other tables
+- 
