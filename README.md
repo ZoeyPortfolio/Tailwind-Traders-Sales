@@ -18,12 +18,7 @@ Create new variables: Gross Revenue, Total tax, and Net Revenue (actual earnings
 - Create new measures using
   ### DAX Calculation
   1. Create a new column: yearly profit margin
-    Yearly Profit Margin = 
-    DIVIDE(
-      SUM('Sales in USD'[Gross Revenue]),
-      SUM('Sales in USD'[Net Revenue]),
-      0
-    )
+    Yearly Profit Margin = 'Sales in USD'[Gross Revenue USD] / 'Sales in USD'[Net Revenue USD]
  
   2. Create a new measure for quarterly profit
     Quarterly Profit = 
