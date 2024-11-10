@@ -89,4 +89,11 @@ October 2023 saw the most significant fluctuations in **yearly profit margin**, 
 - **Mitigate Profit Volatility**: Investigate October’s fluctuations and implement risk management strategies to ensure steady profit margins.
 
 
+### Overview of dashboards
+![image](https://github.com/user-attachments/assets/8de8a9cc-caab-4938-9d73-f108bd2bf1c8)
+<br/>
+![image](https://github.com/user-attachments/assets/ab6fb780-b0e5-48fe-851e-dac55972bf1c)
+
+
+
 
